@@ -11,7 +11,7 @@
       },
       {
         "type": "serviceBus",
-        "connection": "poshbot-teams_RootManageSharedAccessKey_SERVICEBUS",
+        "connection": "SB_CONNECTION",
         "name": "outputSbMsg",
         "queueName": "messages",
         "accessRights": "Send",
